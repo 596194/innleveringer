@@ -55,6 +55,7 @@ public class NordSpiller extends Spiller {
 			Random r = new Random();
 			int p = r.nextInt(spillFra.length);
 			spill = spillFra[p];
+			
 			handling = new Handling(HandlingsType.LEGGNED, spill);
 			// setAntallTrekk(0);
 			

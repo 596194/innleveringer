@@ -149,7 +149,7 @@ public class Kort implements Comparable<Kort> {
 	 * @return Verdien 0 om korta er like, en verdi mindre enn 0 om this kjem
 	 *         først og en verdi større enn 0 om this kjem sist.
 	 */
-	public int compareTo(Kort kort) {
+	public int compareTo(Kort kort) { 
 		
 		if (this.farge != kort.farge) {
 			return this.farge.ordinal() - kort.farge.ordinal();
