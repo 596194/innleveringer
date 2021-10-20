@@ -11,6 +11,7 @@ import no.hvl.dat100.prosjekt.kontroll.spill.Spillere;
 import no.hvl.dat100.prosjekt.modell.Kort;
 import no.hvl.dat100.prosjekt.modell.KortUtils;
 
+
 /**
  * Klassen har objektvariaber som er referanser til de spillerne, nord og syd
  * (type ISpiller). Den har ogsÂ en bunke man deler/trekker fra og en bunke man

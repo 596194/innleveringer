@@ -10,6 +10,7 @@ import no.hvl.dat100.prosjekt.kontroll.spill.Spillere;
 import no.hvl.dat100.prosjekt.modell.Kort;
 import no.hvl.dat100.prosjekt.modell.KortSamling;
 
+
 /**
  * Klasse som for å representere en vriåtter syd-spiller. Strategien er å lete
  * gjennom kortene man har på hand og spille det første som er lovlig.

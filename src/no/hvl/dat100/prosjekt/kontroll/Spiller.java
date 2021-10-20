@@ -6,6 +6,7 @@ import no.hvl.dat100.prosjekt.TODO;
 import no.hvl.dat100.prosjekt.kontroll.spill.Spillere;
 import no.hvl.dat100.prosjekt.modell.Kort;
 
+
 /**
  * Abstrakt klasse som implementerer alle metodene i kontrakten (interfacet) ISpiller,
  * bortsett fra nesteHandling(). Dette er grunnen til at klassen er abstrakt.

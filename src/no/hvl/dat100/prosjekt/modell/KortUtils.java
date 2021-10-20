@@ -5,8 +5,10 @@ import java.util.Random;
 
 import no.hvl.dat100.prosjekt.TODO;
 
+
 public class KortUtils {
 
+	
 	/**
 	 * Sorterer en samling. Rekkefølgen er bestemt av compareTo() i Kort-klassen.
 	 * 
@@ -28,6 +30,7 @@ public class KortUtils {
 //        	for (int j=i+1; j<antallKort)
 //           
 
+		
 		for (int i = 0; i < antallKort - 1; i++) {
 			int minPos = i;
 			for (int j = i + 1; j < antallKort; j++) {
